@@ -94,6 +94,3 @@ python3 update_economic_data.py update "CPI 消费者价格指数" "2.1%"
 
 MIT
 
-## Author
-
-赛博黑哥们 😎🔥
